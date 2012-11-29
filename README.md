@@ -1,0 +1,16 @@
+Cleverbug
+=========
+
+Live Demo at http://muizz.com/cleverbug/
+
+Installation:
+
+1) Architecture and .sql files under _architecture folder, run sql file for mySQL
+
+1) Create a folder under root as cleverbug
+
+
+2) model/connections/Cleverbug.php
+   Enter credentials for local testing or server environment
+   If schema is different, update
+   If you're accessing webserver within network, include your machine ip as well
